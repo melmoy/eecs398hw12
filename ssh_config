@@ -1,0 +1,11 @@
+# UMich GitLab
+Host gitlab
+  HostName gitlab.eecs.umich.edu
+  User git
+  IdentityFile 
+
+# CAEN
+Host mmm
+  HostName login.engin.umich.edu
+  User moymelis
+  Compression yes
