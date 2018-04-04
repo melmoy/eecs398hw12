@@ -1,8 +1,7 @@
 # UMich GitLab
 Host gitlab
   HostName gitlab.eecs.umich.edu
-  User git
-  IdentityFile 
+  User git 
 
 # CAEN
 Host mmm
